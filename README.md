@@ -2,7 +2,7 @@ Time triggered interrupt
 ========================
 
 Function:               Preform an interrupt at a timed interval
-Circuit Schematic No.:  2
+Circuit Schematic No.:  2 : https://github.com/ELECXJEL2645/Circuit_Schematics
 Required Libraries:     
 
 Authored by:            Dr Tim Amsdon
