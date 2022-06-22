@@ -1,4 +1,4 @@
-Time triggered interrupt
+Time_Triggered_LED
 ========================
 
 Function:               Preform an interrupt at a timed interval
